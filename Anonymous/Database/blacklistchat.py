@@ -1,6 +1,6 @@
 from typing import Dict, List, Union
 
-from Anonynous import db
+from Anonymous import db
 
 blacklist_chatdb = db.blacklistChat
 
