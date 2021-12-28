@@ -19,9 +19,7 @@ def start_pannel():
                 )
             ],
         ]
-        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME},
-ɪ ᴄᴀɴ ᴘʟᴀʏ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ʙʏ ᴜsɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰᴇᴀᴛᴜʀᴇ.
-ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ @anonymous_was_bot**", buttons
+        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME}**", buttons
     if not SUPPORT_CHANNEL and SUPPORT_GROUP:
         buttons = [
             [
@@ -40,9 +38,7 @@ def start_pannel():
                 ),
             ],
         ]
-        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME},
-ɪ ᴄᴀɴ ᴘʟᴀʏ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ʙʏ ᴜsɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰᴇᴀᴛᴜʀᴇ.
-ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ @anonymous_was_bot*", buttons
+        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME}*", buttons
     if SUPPORT_CHANNEL and not SUPPORT_GROUP:
         buttons = [
             [
@@ -61,9 +57,7 @@ def start_pannel():
                 ),
             ],
         ]
-        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME},
-ɪ ᴄᴀɴ ᴘʟᴀʏ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ʙʏ ᴜsɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰᴇᴀᴛᴜʀᴇ.
-ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ @anonymous_was_bot**", buttons
+        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME}**", buttons
     if SUPPORT_CHANNEL and SUPPORT_GROUP:
         buttons = [
             [
@@ -85,9 +79,7 @@ def start_pannel():
                 ),
             ],
         ]
-        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME},
-ɪ ᴄᴀɴ ᴘʟᴀʏ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ʙʏ ᴜsɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰᴇᴀᴛᴜʀᴇ.
-ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ @anonymous_was_bot**", buttons
+        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME}**", buttons
 
 
 def private_panel():
@@ -105,9 +97,7 @@ def private_panel():
                 )
             ],
         ]
-        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME},
-ɪ ᴄᴀɴ ᴘʟᴀʏ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ʙʏ ᴜsɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰᴇᴀᴛᴜʀᴇ.
-ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ @anonymous_was_bot**", buttons
+        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME}**", buttons
     if not SUPPORT_CHANNEL and SUPPORT_GROUP:
         buttons = [
             [
@@ -127,9 +117,7 @@ def private_panel():
                 ),
             ],
         ]
-        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME},
-ɪ ᴄᴀɴ ᴘʟᴀʏ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ʙʏ ᴜsɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰᴇᴀᴛᴜʀᴇ.
-ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ @anonymous_was_bot**", buttons
+        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME}**", buttons
     if SUPPORT_CHANNEL and not SUPPORT_GROUP:
         buttons = [
             [
@@ -149,9 +137,7 @@ def private_panel():
                 ),
             ],
         ]
-        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME},
-ɪ ᴄᴀɴ ᴘʟᴀʏ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ʙʏ ᴜsɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰᴇᴀᴛᴜʀᴇ.
-ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ @anonymous_was_bot**", buttons
+        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME}**", buttons
     if SUPPORT_CHANNEL and SUPPORT_GROUP:
         buttons = [
             [
@@ -174,9 +160,7 @@ def private_panel():
                 ),
             ],
         ]
-        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME},
-ɪ ᴄᴀɴ ᴘʟᴀʏ ᴀɴᴅ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ʙʏ ᴜsɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ꜰᴇᴀᴛᴜʀᴇ.
-ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴏᴠᴇ ʙʏ @anonymous_was_bot**", buttons
+        return f"🎛  **ʜᴇʏ, ᴛʜɪs ɪs {MUSIC_BOT_NAME}**", buttons
 
 
 def setting_markup():
