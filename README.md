@@ -39,7 +39,7 @@
    Stay Up-to-Date
 </h2>
 
-<p align="center"><img src="https://github.com/AnonymousBoy1025/AnonymousMusicBot/blob/main/Utils/star.gif" alt="AnonymousBoy1025 Github" width="1000px" /></p>
+<p align="center"><img src="https://github.com/AnonymousBoy1025/AnonymousMusicBot/blob/master/Utils/star.gif" alt="AnonymousBoy1025 Github" width="1000px" /></p>
 
 
 
