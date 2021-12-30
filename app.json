@@ -1,7 +1,7 @@
 {
   "name": "Anonymous Music Bot",
   "description": "A Powerful Telegram Music Bot written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/AnonymousBoy1025/AnonymousMusicBot",
+  "repository": "https://github.com/itshedi/AnonymousMusicBot",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
   "python3",
