@@ -1,4 +1,4 @@
-<h1 align= center><b>🖤 Anonymous Music Bot ❤</b></h1>
+<h1 align= center><b>🖤 Anonymous Music Bot 🖤</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 <p align="center">
@@ -62,7 +62,7 @@ Anonymous@MacBook~ $ cp sample.env .env
 ```console
 Anonymous@MacBook~ $ bash start
 ```
-![alt text](https://github.com/AnonymousBoy1025/AnonymousMusicBot/blob/main/Utils/screen.png)
+![alt text](https://github.com/AnonymousBoy1025/AnonymousMusicBot/blob/master/Utils/screen.png)
 
 
 <h2 align="center">
